@@ -1,0 +1,353 @@
+{
+	"title": "ΩF:∅ Working Group",
+	"body": {
+		"header": {
+			"title": "ΩF:∅ Working Group",
+			"tagline": "The league of open-source technology beaux esprits."
+		},
+		"about": {
+			"title":"About",
+			"body": [
+				{
+					"title": "What are we?",
+					"body": {
+						"text": "The [0]ΩF:∅ Working Group[/0] is an open source technology consortium that aims to bring people together to develop useful, high-quality, free, and open-source software and technology for any range of purposes.",
+						"links": [
+							"https://github.com/oftn/"
+						]
+					}
+				},
+				{
+					"title": "Our Focus", 
+					"body": {
+						"text": "Our members are familiar with languages as popular as Python, Ruby, JavaScript, and C, as well as Haskell, Erlang, and Lua. Some of our projects are heavily web-oriented, although we don't limit ourselves to that. We try to develop software in a wide range of languages with a wide range of uses."
+					}
+				},
+				{
+					"title": "Contact Us",
+					"body": {
+						"text": [
+							"Visit us in [0]#oftn[/0] on the [1]Freenode[/1] IRC network",
+							"Join our [2]Google+ community[/2]"
+						],
+						"links":[
+							"irc://irc.freenode.net/#oftn",
+							"http://freenode.net/",
+							"https://plus.google.com/communities/112859235384765702467"
+						]
+					}
+				},
+				{
+					"title": "Our Name",
+					"body": {
+						"text": "ΩF:∅ means &quot;ohm-farad to none&quot;, and we usually pronounce it as &quot;often&quot;."
+					}
+				}
+			]
+		},
+		"members": {
+			"title": "Members",
+			"body": {
+				"board_list": [
+					{
+						"name": "Alexis Sellier",
+						"nick": "cloudhead",
+						"link": "http://cloudhead.io/"
+					},
+					{
+						"name": "Alice Bevan–McGregor",
+						"nick": "amcgregor",
+						"link": "https://github.com/amcgregor"
+					},
+					{
+						"name": "Devin Samari",
+						"nick": "eboyjr",
+						"link": "https://github.com/eboyjr"
+					},
+					{
+						"name": "Devyn Cairns",
+						"nick": "devyn",
+						"link": "http://github.com/devyn"
+					},
+					{
+						"name": "Eli Grey",
+						"nick": "sephr",
+						"link": "http://eligrey.com/"
+					},
+					{
+						"name": "Gary Katsevman",
+						"nick": "gkatsev",
+						"link": "http://gkatsev.com/"
+					},
+					{
+						"name": "Michaeljohn Clement",
+						"nick": "inimino",
+						"link": "http://inimino.org/~inimino/blog/"
+					},
+					{
+						"name": "Yurii Rashkovskii",
+						"nick": "yrashk",
+						"link": "http://about.me/yrashk"
+					}
+				],
+				"member_list": [
+					{
+						"name": "Alex Schmidt",
+						"nick" : "sanitypassing",
+						"link" : "https://github.com/sanitypassing"
+					},
+					{
+						"name": "Alistair Lynn",
+						"nick" : "prophile",
+						"link" : "https://github.com/prophile"
+					},
+					{
+						"name": "Cal Wilson",
+						"nick" : "oksushi",
+						"link" : "http://theworkingparty.com.au/"
+					},
+					{
+						"name": "Corey Richardson",
+						"nick" : "cmr",
+						"link" : "http://octayn.net/"
+					},
+					{
+						"name": "Dan Palmer",
+						"nick" : "danpalmer",
+						"link" : "http://danpalmer.me/"
+					},
+					{
+						"name": "Gajus Kuizinas",
+						"nick" : "guy",
+						"link" : "http://anuary.com"
+					},
+					{
+						"name": "Gianni Chiappetta",
+						"nick" : "gf3",
+						"link" : "http://gf3.ca/"
+					},
+					{
+						"name": "Guilherme Nami",
+						"nick" : "guidj0s",
+						"link" : "http://guipn.com/"
+					},
+					{
+						"name": "Jean-Nicolas Jolivet",
+						"nick" : "jeannicolas",
+						"link" : "https://github.com/SilverTab"
+					},
+					{
+						"name": "Joel Taylor",
+						"nick" : "otters",
+						"link" : "http://otte.rs/"
+					},
+					{
+						"name": "Jon-Carlos Rivera",
+						"nick" : "ImBcmDth",
+						"link" : "http://jon-carlos.com/"
+					},
+					{
+						"name": "John Felderhof",
+						"nick" : "PragmaticCypher",
+						"link" : "https://github.com/PragmaticCypher"
+					},
+					{
+						"name": "John Mair",
+						"nick" : "banister",
+						"link" : "http://banisterfiend.wordpress.com/"
+					},
+					{
+						"name": "Jonas Höglund",
+						"nick" : "FireFly",
+						"link" : "http://www.firefly.nu/"
+					},
+					{
+						"name": "Jordan Harband",
+						"nick" : "LJHarb",
+						"link" : "https://twitter.com/ljharb"
+					},
+					{
+						"name": "Martin Aumont",
+						"nick" : "mynyml",
+						"link" : "http://mynyml.com/"
+					},
+					{
+						"name": "Mathias Bynens",
+						"nick" : "matjas",
+						"link" : "http://mathiasbynens.be/"
+					},
+					{
+						"name": "Micah Johnston",
+						"nick" : "micahjohnston",
+						"link" : "https://github.com/micahjohnston"
+					},
+					{
+						"name": "Navarr Barnier",
+						"nick" : "Navarr",
+						"link" : "http://navarr.me/"
+					},
+					{
+						"name": "Nicholas Penree",
+						"nick" : "drudge",
+						"link" : "http://penree.com/"
+					},
+					{
+						"name": "Peter W. Lejeck",
+						"nick" : "Nuck",
+						"link" : "https://github.com/NuckChorris"
+					},
+					{
+						"name": "Quildreen Motta",
+						"nick" : "Sorella",
+						"link" : "http://killdream.github.com/"
+					},
+					{
+						"name": "Robert Shinka",
+						"nick" : "Obfuscate",
+						"link" : "http://dev.unknownlayer.net/"
+					},
+					{
+						"name": "Roger Cyr",
+						"nick" : "systemfault",
+						"link" : "http://debugfailure.wordpress.com/"
+					},
+					{
+						"name": "Russell Frank",
+						"nick" : "russfrank",
+						"link" : "https://github.com/russfrank"
+					},
+					{
+						"name": "Samuel Rødal",
+						"nick" : "capisce",
+						"link" : "https://twitter.com/srodal"
+					},
+					{
+						"name": "Seyi Ogunyemi",
+						"nick" : "micrypt",
+						"link" : "http://micrypt.com/"
+					},
+					{
+						"name": "Wesley Kerfoot",
+						"nick" : "Nisstyre",
+						"link" : "http://stackoverflow.com/users/903589/wes"
+					},
+					{
+						"name": "Yorick van Pelt",
+						"nick" : "Yorick",
+						"link" : "https://github.com/YorickvP"
+					}
+				],
+				"footer": {
+					"body": {
+						"text": "Email [0]wg@oftn.org[/0] to apply for membership",
+						"links": [
+							"mailto:wg@oftn.org?subject=%CE%A9F%3A%E2%88%85%20Working%20Group%20Membership%20Application"
+						]
+					}
+				}
+			}
+		},
+		"projects": {
+			"title": "Projects",
+			"header" : {
+				"text": "We are committed to the open-source philosophy. This is why we manage [0]our open-source projects[/0] with the wonderful [1]Github[/1] service.",
+				"links": [
+					"https://github.com/oftn/",
+					"https://github.com/"
+				]
+			},
+			"body": [
+				{
+					"title": "DartMark",
+					"link": "https://github.com/oftn/DartMark",
+					"body": "DartMark is an in-browser WYSIWYG editor with a focus on fast prototyping. The main benefits of it are speed, ease-of-use, and configurability. All actions can be performed with just a keyboard. Your editor is now your previewer, so there is no need to switch back and forth between a seperate editor and a browser to preview. And because it's written in-browser, DartMark will let you define your own keyboard shortcuts and special JavaScript function macros. Try out a working version.",
+					"demo": {
+						"text": "Try out a [0]working[/0] version.",
+						"links": [
+							"projects/dartmark/"
+						]
+					}
+				},
+				{
+					"title": "Hermes",
+					"link": "https://github.com/oftn/hermes",
+					"body": "Hermes is the name of a proposed communication protocol and associated server and client currently being designed.",
+					"demo": {
+						"text": "Visit the [0]project[/0] page.",
+						"links": [
+							"projects/hermes/"
+						]
+					}
+				},
+				{
+					"title": "Quorum",
+					"link": "https://github.com/oftn/quorum",
+					"body": "Quorum is a flexible proposal/voting workflow system for teams of people. With this tool, you will be able to efficiently propose ideas to a group to be voted upon. It will provide a system to seamlessly collaborate with your group to gather consensus and make decisions over the Internet."
+				},
+				{
+					"title": "TPFS",
+					"link": "https://github.com/oftn/TPFS",
+					"body": "TPFS (the Tagged Plain File System) is a revolutionary new file system that aims to move beyond the rut of hierarchical file systems through a purely tag based model. There are only two objects in TPFS: files and tags. They share a many-to-many relationship; files can have many different tags, and tags can have many different files. It is designed to be quick to look up in both directions."
+				},
+				{
+					"title": "lic",
+					"link": "https://github.com/oftn/lic",
+					"body": "lic (pronounced like lick) is an experimental and new IRC client and framework. It consists of a central hub which maintains persistent connections and attachable clients which serve as an interface to the hub. It is based on Node.js which allows you to access all of the standard API along with lic's easy to use API."
+				},
+				{
+					"title": "l10n",
+					"link": "https://github.com/oftn/l10n.js",
+					"body": "l10n.js is a JavaScript library that enables passive localization through native JavaScript methods, gracefully degrading if the library is not present. You can make Ajax applications, JavaScript libraries, etc. that can be localized but not require l10n.js to function. There is already a placeholder method for all API calls as specified in the ECMAScript specification and is present in all JavaScript engines, so when l10n.js isn't present, your application works fine.",
+					"demo": {
+						"text": "Visit the online [0]demo[/0] to see l10n.js in action.",
+						"links": [
+							"http://purl.eligrey.com/l10n.js/demo"
+						]
+					}
+				},
+				{
+					"title": "The SUIT Canvas Toolkit",
+					"link": "https://github.com/oftn/suit-js",
+					"body": "The SUIT Canvas Toolkit is meant to be an easy-to-use, beautiful, and fully-featured UI toolkit for the HTML5 canvas. There are some specialized web applications that require more than just what can be achieved with normal DOM methods. With canvas, you get more flexibility in the design, look-and-feel, and controls. Rendering and page layout also works while hardly having to worry about how things will look and behave in another browser. Besides being useful to you, this was started as an experiment to see how UI toolkits can work in the browser environment.",
+					"demo": {
+						"text": "Visit the [0]demo[/0] page.",
+						"links": [
+							"projects/suit/"
+						]
+					}
+				},
+				{
+					"title": "oftn-bot",
+					"link":"https://github.com/oftn/oftn-bot",
+					"body": "State-of-the-art IRC bot library and bot for Node.js.",
+					"demo": {
+						"text": "Try oftn-bot in [0]#oftn[/0] on irc.freenode.net.",
+						"links": [
+							"ircs://irc.freenode.net/#oftn"
+						]
+					}
+				}
+			]
+		},
+		"footer": {
+			"title": "© 2013 ΩF:∅ Working Group members",
+			"body" : {
+				"text": [
+					"[0]Watch us[/0] on GitHub",
+					"[1]Like us[/1] on Facebook",
+					"[2]Follow us[/2] on Twitter",
+					"[3]Circle us[/3] on Google+",
+					"[4]Donate[/4]"
+				],
+				"links": [
+					"https://github.com/oftn/",
+					"https://www.facebook.com/oftn.wg",
+					"https://twitter.com/oftn_wg",
+					"https://plus.google.com/111688594845627806515",
+					"https://www.wepay.com/donate/oftn"
+				]
+			}
+		}
+	}
+}
+

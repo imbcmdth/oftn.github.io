@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8"/>
+	<meta name="description" content="The league of open-source technology beaux esprits. The ΩF:∅ Working Group develops free and open-source technology."/>
+	<meta name="viewport" content="width=device-width"/>
+	<title>{{title}}</title>
+	<link rel="stylesheet" type="text/css" href="css/global.css"/>
+<body>
+	{{#with body}}
+	{{#with header}}
+	<header>
+		<h1 class="logo oftn-strong">{{title}}</h1>
+		<p class="tagline">{{tagline}}</p>
+	</header>
+	{{/with}}
+	<div id="container">
+		<div id="contents">
+			<div id="overview" class="accordian">
+
+				{{#with about}}
+				<h2 id="about" title="{{title}}">{{title}}</h2>
+				<div class="accordian-panel">
+					{{#each body}}
+						<h3>{{title}}</h3>
+						{{{linkify_about body}}}
+					{{/each}}
+				</div>
+				{{/with}}
+
+				{{#with members}}
+				<h2 id="about" title="{{title}}">{{title}}</h2>
+				<div class="accordian-panel">
+					<h3>Board of Directors</h3>
+					<ul>
+						{{#each body.board_list}}
+							<li><a title="{{nick}}" href="{{link}}">{{name}}</a> ({{nick}})</li>
+						{{/each}}
+					</ul>
+					<h3>Members</h3>
+					<ul>
+						{{#each body.member_list}}
+							<li><a title="{{nick}}" href="{{link}}">{{name}}</a> ({{nick}})</li>
+						{{/each}}
+					</ul>
+					{{{linkify body.footer.body "p"}}}
+				</div>
+				{{/with}}
+
+				{{#with projects}}
+				<h2 id="projects" title="{{title}}">{{title}}</h2>
+				<div class="accordian-panel">
+					{{{linkify header  "p"}}}
+					<dl class="projects">
+						{{#each body}}
+							<dt><a href="{{link}}">{{title}}</a></dt>
+							<dd>
+								<p>{{body}}
+								{{#if demo}}
+									{{{linkify demo "span"}}}
+								{{/if}}
+								</p>
+							</dd>
+						{{/each}}
+					</dl>
+				</div>
+				{{/with}}
+
+			</div>
+		</div>
+		{{#with footer}}
+		<footer>
+			{{title}}
+			<ul>
+				{{{linkify body "li"}}}
+			</ul>
+		</footer>
+		{{/with}}
+	</div>
+	{{/with}}
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"/>
+	<script src="js/oftn/site.js"></script>
+	<script src="js/oftn/accordian.js"></script>
+	<script>
+		new ΩF_0.Accordian (document.getElementById ("overview"));
+	</script>

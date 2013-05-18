@@ -1,0 +1,23 @@
+{
+  "name": "wg.oftn.org",
+  "version": "0.0.1",
+  "description": "OFTN Working group site",
+  "scripts": {
+    "build": "build/index.js",
+    "clean": "clean/index.js"
+  },
+  "private": true,
+  "directories": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/oftn/oftn.github.io.git"
+  },
+  "dependencies": {
+    "handlebars" : ">=1.0.11"
+  },
+  "license": "MIT",
+  "engine": {
+    "node": ">=0.8.0"
+  }
+}
